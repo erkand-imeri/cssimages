@@ -1,0 +1,39 @@
+<html>
+<head></head>
+<body>
+  
+  <div id="container">
+    <div id="leftear"></div>
+    <div id="rightear"></div>
+    <div id="face">
+      <div id="firstlm"></div>
+      <div id="secondlm"></div>
+      <div id="thirdlm"></div>
+      <div id="firstrm"></div>
+      <div id="secondrm"></div>
+      <div id="thirdrm"></div>
+      <div id="leftmark"></div>
+      <div id="leftsmallm"></div>
+      <div id="rightmark"></div>
+      <div id="rightsmallm"></div>
+      <div id="leftn"></div>
+      <div id="lefteye"><div></div>
+      <div id="lefteyetail"></div>
+      </div>
+      <div id="rightn"></div>
+      <div id="righteye"><div></div></div>
+      <div id="uppernose"></div>
+      <div id="nose"></div></div>
+    <div id="leftcheek"></div>
+    <div id="rightcheek"></div>
+    
+    <div id="mouth">
+      
+    <div id="innermouth"></div>
+      <div id="lips"></div>
+    </div>
+    </div>
+  
+  
+</body>
+</html>

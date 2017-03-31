@@ -1,0 +1,28 @@
+<html>
+  <head>
+    </head>
+  <body>
+    <div id="container">
+     <div id="leftear">
+    <div></div>
+    </div>
+    <div id="rightear">
+    <div></div>
+    </div>
+
+    <div id="outercub">
+     
+      <div id="lefteyebrow"></div>
+      <div id="righteyebrow"></div>
+      <div id="lefteye"><div></div></div>
+      <div id="righteye"><div></div></div>
+    <div id="innercub">
+      <div id="nose"></div>
+      <div id="mouth"></div>
+      </div>
+    </div>
+    </div>
+    
+    
+    </body>
+  </html>

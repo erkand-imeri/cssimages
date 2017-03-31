@@ -1,0 +1,30 @@
+<html>
+<head></head>
+  <body>
+ <h1>Elephant</h1>
+    <h3>Daily CSS Images ::2</h3>
+    <div id="container">
+    <div id="elbod">
+      <div id="tail"></div>
+    <div id="head">
+      <div id=ear></div>
+      <div id="eye"><div></div></div>
+    <div id="inhead"></div>
+      
+      <div id="nose"><div></div></div>
+    </div>
+    <div id="leftleg">
+      <div></div>
+      <div></div>
+      </div>
+    <div id="rightleg">
+      <div></div>
+      <div></div>
+      </div>
+    </div>
+    </div>
+    
+    
+    
+  </body>
+ </html>

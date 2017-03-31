@@ -1,0 +1,33 @@
+<html>
+<head></head>
+  
+  <body>
+    
+    
+    <div id="container">
+      <div id="leftear"></div>
+      <div id="rightear"></div>
+    <div id="head">
+      
+      <div id="lefteye"><div></div></div>
+      <div id="righteye"><div></div></div>
+      <div id="nose"></div>
+      <div id="leftt"></div>
+      <div id="rightt"></div>
+      <div id="leftteeth"></div>
+      <div id="rightteeth"></div>
+      </div>
+      <div id="bodybeaver">
+      <div id="leftarm"></div>
+        <div id="rightarm"></div>
+        <div id="leftleg"></div>
+        <div id="rightleg"></div>
+      </div>
+      <div id="tail"></div>
+    </div>
+    
+    
+    
+  </body>
+
+</html>

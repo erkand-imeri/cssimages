@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body
+{
+  background: url("http://i65.tinypic.com/2ezl82r.jpg");
+}
+#container{
+  width: 300px;
+  height: 200px;
+  position: relative;
+  margin: auto;
+  
+}
+
+h1,h3{
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: #001a33;
+  margin-bottom: 50px;
+}
+#elbod
+{
+  width: 200px;
+  height: 150px;
+  background-color: #b3b3b3;
+  border-radius: 100px;
+ margin: auto;
+  box-shadow: -1px 2px 2px #999999;
+}
+#head
+{
+  width: 120px;
+  height: 120px;
+  background-color: #b3b3b3;
+  border-radius: 60px;
+  position: absolute;
+  right: 0;
+  box-shadow: -1px 2px 2px #999999;
+  
+}
+#ear{
+  width: 90px;
+  height: 70px;
+  border-radius: 50%;
+  box-shadow: 35px 10px 0 0 #999999;
+  transform: rotate(170deg);
+  margin-left: 20%;
+  margin-top: 20%;
+  z-index:1;
+   
+}
+#eye
+{
+  width: 15px;
+  height: 20px;
+  background-color: #404040;
+  position: absolute;
+  margin-left: 65%;
+  margin-top:-30%;
+  z-index: 1;
+  border-radius: 10px;
+  box-shadow: 1px 2px 2px #999999;
+}
+#eye>div
+{
+  width: 5px;
+  height: 10px;
+  background-color: #e6e6e6;
+  position: absolute;
+  right: 0;
+  border-radius: 5px;
+  margin-right: 3px;
+  margin-top: 3px;
+}
+#inhead
+{
+  width: 80px;
+  height: 80px;
+  background-color: #b3b3b3;
+  position: absolute;
+  margin-left: 40%;
+  margin-top: -40%;
+  border-radius: 40px;
+}
+
+
+#nose
+{
+ width: 60%;
+  height: 70%;
+  border-radius: 50%;
+  border: 25px solid transparent;
+  border-right-color: #b3b3b3;
+  border-bottom: 45px solid #b3b3b3;
+  position: absolute;
+  z-index: 3;
+  left: 60%;
+  top: -25%;
+  
+
+}
+#nose>div
+{
+     width: 40px;
+  height: 80px;
+  border-radius: 50%;
+  box-shadow: 10px 5px 0 0 white;
+  margin-top: 70px;
+  margin-left: 30px;
+  transform: rotate(90deg);
+  
+}
+#tail{
+  width: 10px;
+  height: 70px;
+  border-radius: 50%;
+  box-shadow: 15px 7px 0 0 #b3b3b3;
+  transform: rotate(200deg);
+  margin-top: 15%;
+  margin-left: 2%;
+  position: absolute;
+  z-index: 1;
+ 
+  
+  
+}
+#leftleg
+{
+  height: 100px;
+  width: 60px;
+  background-color: #b3b3b3;
+  position: absolute;
+ bottom: 0;
+  margin-left: 3%;
+  box-shadow: -1px 2px 2px #999999;
+  border-radius: 10px;
+}
+#rightleg
+{
+  height: 100px;
+  width: 60px;
+  background-color: #b3b3b3;
+  position: absolute;
+  right: 0;
+  margin-right: 27%;
+  bottom: 0;
+  border-radius: 10px;
+ 
+}
+
+#leftleg > div
+{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px; 
+}
+#rightleg > div
+{
+  width: 10px;
+  height: 10px;
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 3px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px; 
+}
+#leftleg div:nth-child(2)
+{
+   width: 10px;
+  height: 10px;
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 15px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px; 
+}
+
+#rightleg div:nth-child(2)
+{
+   width: 10px;
+  height: 10px;
+  background-color: white;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 15px;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px; 
+}

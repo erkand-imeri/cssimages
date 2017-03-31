@@ -1,0 +1,176 @@
+body
+{
+  background-image: url('http://i68.tinypic.com/29ktagj.jpg');
+}
+#container
+{
+  width: 350px;
+  height: 350px;
+  margin: auto;
+  position: relative;
+}
+#outercub
+{
+  background-color: #803300;
+  width: 300px;
+  height: 300px;
+  margin: auto;
+  margin-top: 150px;
+  z-index: 2;
+  border-radius: 150px;
+  position: relative;
+  box-shadow: 5px 5px 5px #333333;
+}
+#leftear
+{
+  width: 150px;
+  height: 150px;
+  background-color: #803300;
+ position: absolute;
+  left: 0;
+  
+  margin-top: -50px;
+  border-radius: 75px;
+  z-index: 1;
+  box-shadow: -5px 5px 5px #333333;
+}
+#rightear
+{
+   width: 150px;
+  height: 150px;
+  background-color: #803300;
+ position: absolute;
+ right: 0;
+  margin-top: -50px;
+  border-radius: 75px;
+  z-index: 1;
+   box-shadow: 5px 5px 5px #333333;
+}
+
+#innercub
+{
+  width: 150px;
+  height: 110px;
+  background-color: #ffd9b3;
+position: absolute;
+  margin-left: 75px;
+  margin-top: 165px;
+  border-radius: 65px;
+  box-shadow: 5px 5px 5px #333333;
+}
+#leftear > div
+{
+  width: 100px;
+  height: 100px;
+  background-color: #ffd9b3;
+  border-radius: 50px;
+  margin-top: 30px;
+  margin-left: 30px;
+  box-shadow: -3px 3px 3px #333333;
+}
+
+#rightear > div
+{
+  width: 100px;
+  height: 100px;
+  background-color: #ffd9b3;
+  border-radius: 50px;
+  margin-top: 30px;
+  margin-left: 25px;
+  box-shadow: 3px 3px 3px #333333;
+}
+#nose
+{
+  width: 70px;
+  height: 35px;
+  background-color: black;
+  margin: auto;
+  border-radius: 35px;
+  box-shadow: 3px 3px 3px #0d0d0d
+;
+}
+#lefteye
+{
+  height: 80px;
+  width: 60px;
+  background-color: white;
+  position: absolute;
+  margin-left: 70px;
+  margin-top: 70px;
+  border-radius: 40px;
+  box-shadow: -3px 3px 3px #0d0d0d
+;
+}
+#righteye
+{
+   height: 80px;
+  width: 60px;
+  background-color: white;
+   position: absolute;
+  margin-left: 170px;
+  margin-top: 70px;
+  border-radius: 40px;
+  box-shadow: 3px 3px 3px #0d0d0d;
+}
+
+#lefteye >div
+{
+  position: absolute;
+  width: 30px;
+  height: 40px;
+  background-color: black;
+  bottom: 0;
+  border-radius: 20px;
+  margin-left: 25px;
+}
+#righteye > div
+{
+  position: absolute;
+  width: 30px;
+  height: 40px;
+  background-color: black;
+  bottom: 0;
+  border-radius: 20px;
+  margin-left: 5px;
+}
+
+#mouth{
+  width: 100px;
+  height: 10px;
+  border:solid 5px #000;
+   border-color:#000 transparent transparent transparent;
+  border-radius: 50%/10px 10px 0 0;
+  transform: rotateX(120deg);
+  margin-top: 40px;
+  margin-left: 20px;
+   box-shadow: 5px 5px 5px #0d0d0d;
+  background-color: red;
+}
+
+#lefteyebrow{
+  width: 80px;
+  height: 5px;
+  border:solid 5px #000;
+   border-color:#000 transparent transparent transparent;
+  border-radius: 50%/5px 10px 0 0;
+  transform: rotate(30deg);
+  margin-top: 50px;
+  margin-left: 60px;
+  position: absolute;
+}
+#righteyebrow{
+  width: 80px;
+  height: 5px;
+  border:solid 5px #000;
+   border-color:#000 transparent transparent transparent;
+  border-radius: 50%/5px 10px 0 0;
+  transform: rotate(-30deg);
+  margin-top: 50px;
+  right: 0;
+  margin-right: 50px;
+ position: absolute;
+}
+
+
+
+
